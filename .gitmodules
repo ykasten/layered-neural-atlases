@@ -1,3 +1,0 @@
-[submodule "thirdparty/RAFT"]
-	path = thirdparty/RAFT
-	url = https://github.com/princeton-vl/RAFT
