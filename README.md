@@ -100,9 +100,13 @@ python only_edit.py --trained_model_folder=pretrained_models/checkpoints/libby -
 If you find our work useful in your research, please consider citing:
 ```
 @article{kasten2021layered,
-  title={Layered Neural Atlases for Consistent Video Editing},
+  title={Layered neural atlases for consistent video editing},
   author={Kasten, Yoni and Ofri, Dolev and Wang, Oliver and Dekel, Tali},
-  journal={arXiv preprint arXiv:2109.11418},
-  year={2021}
+  journal={ACM Transactions on Graphics (TOG)},
+  volume={40},
+  number={6},
+  pages={1--12},
+  year={2021},
+  publisher={ACM New York, NY, USA}
 }
 ```
