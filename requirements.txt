@@ -1,0 +1,12 @@
+imageio==2.9.0
+matplotlib==3.5.3
+numpy==1.22.4
+opencv_python==4.6.0.66
+Pillow==9.4.0
+raft==1.4.1.4
+scikit_image==0.19.3
+scipy==1.10.1
+skimage==0.0
+torch==1.13.1+cu116
+tqdm==4.64.1
+utils==1.0.1
