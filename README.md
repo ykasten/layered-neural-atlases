@@ -33,6 +33,9 @@ gdown https://drive.google.com/uc?id=1WipZR9LaANTNJh764ukznXXAANJ5TChe
 unzip data.zip
 ```
 
+Additional pre-trained atlases are provided [here](https://www.dropbox.com/s/oiyhbiqdws2p6r1/nla_share.zip?dl=0 ) : 
+
+
 #### Masks extraction
 Given only the video frames folder `data/blackswan` it is possible to extract the [Mask-RCNN](https://arxiv.org/abs/1703.06870) masks (and create the required folder `data/blackswan_maskrcnn`) by running: 
 ```
