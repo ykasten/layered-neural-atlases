@@ -33,7 +33,7 @@ gdown https://drive.google.com/uc?id=1WipZR9LaANTNJh764ukznXXAANJ5TChe
 unzip data.zip
 ```
 
-Additional pre-trained atlases are provided [here](https://www.dropbox.com/s/oiyhbiqdws2p6r1/nla_share.zip?dl=0 ) : 
+
 
 
 #### Masks extraction
@@ -67,6 +67,7 @@ For downloading a sample set of our pretrained models together with sample edits
 gdown https://drive.google.com/uc?id=10voSCdMGM5HTIYfT0bPW029W9y6Xij4D
 unzip pretrained_models.zip
 ```
+Additional pre-trained atlases are provided [here](https://www.dropbox.com/s/oiyhbiqdws2p6r1/nla_share.zip?dl=0 ).
 
 ## Training
 For training a model on a video, run: 
